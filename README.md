@@ -1,5 +1,7 @@
 # Dramatic EDitor
 
+![GIF](ded.gif)
+
 **THIS SOFTWARE IS UNFINISHED!!! Don't have any high expectations.**
 
 # Quick Start
